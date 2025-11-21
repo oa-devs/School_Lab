@@ -3,7 +3,7 @@ numb = int(input("Enter a number : "))
 
 if num > 5:
     print("too high!")
-else
+else :
     print("too low!")
 
 
